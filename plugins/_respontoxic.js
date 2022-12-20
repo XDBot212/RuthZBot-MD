@@ -16,6 +16,7 @@ const time = moment.tz('Asia/Jakarta').format('HH')
   let name = await conn.getName(m.sender)
   let runnya = `━━━❏〔 *SOURCE CODE* 〕❏━❏
 ラ *New Script by Virzz*
+https://github.com/XDBot212/RuthZBot-MD
 
 ラ *OFFICIAL GROUP*
 *https://chat.whatsapp.com/BpoNc821tqoCRQnIsf91ti*
