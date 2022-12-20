@@ -1,0 +1,20 @@
+// jangan dihapus
+// Buatan RuthZBotラ
+
+/*{(
+import handler = async(m, { conn, text, usedPrefix, command }) => {
+	conn.p = conn.p ? conn.p : {}
+)}
+{
+   {
+import (db.data.settings[botNumber].autobio) {
+	    const ruthznr = global.nomorbot
+	    const ruthzna = global.namabot
+	    if (new Date() * 1 - ruthz.status > 100) {
+		const run = runtime(process.uptime())
+		await conn.setStatus(`${ucapanWaktu}, type .menu to go | ${ruthznr.user.name} | ${xdate} Bot Runtime : ${run}`)
+		setting.status = new Date() * 1
+	    }
+	}
+	
+	/error yee
